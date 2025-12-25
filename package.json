@@ -1,7 +1,7 @@
 {
-  "name": "Fauzialifatah",
+  "name": "Toxic-MD",
   "version": "1.0.0",
-  "description": "credate script by fauzialifatah",
+  "description": "script by xhclinton",
   "main": "node index.js",
   "type": "module",
   "scripts": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "github:kiuur/baileys",
+    "@whiskeysockets/baileys": "github:xhclintohn/Baileys",
     "archiver": "^7.0.1",
     "awesome-phonenumber": "^7.6.0",
     "axios": "^1.13.2",
